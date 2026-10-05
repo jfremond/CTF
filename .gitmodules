@@ -1,3 +1,6 @@
 [submodule "404CTF_2026"]
 	path = 404CTF_2026
 	url = https://github.com/jfremond/404CTF_2026
+[submodule "Operation_Culot_2026"]
+	path = Operation_Culot_2026
+	url = git@github.com:jfremond/Operation_Culot_2026.git
